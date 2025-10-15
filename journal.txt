@@ -2,3 +2,4 @@
 //Week 2: This week I used AI to recommend me a song to use for a class assignment.
 //Week 3: This week I asked AI to help me on my job resume, safe to say theres still some problems.
 //Week 4: This week I asked AI about how to get a personalized license plate, apparently in MD it's a lot of steps for it.
+//Week 5: This week I wanted to get into doing Leetcode but I hit a roadblock because I was confused on the term hashmapping and so I used chatgpt to help me learn.
