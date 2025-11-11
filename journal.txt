@@ -5,3 +5,4 @@
 //Week 5: This week I wanted to get into doing Leetcode but I hit a roadblock because I was confused on the term hashmapping and so I used chatgpt to help me learn.
 //Week 6: This week I tried to ask chatgpt easier ways to understand classes and implement them.
 //Week 7: This week I was trying to get better at functions for our project so I asked chatgpt to teach me about linked list and hashmapping.
+//Week 8: Theres been a lot of controversy about womens sports, so I asked chatgpt about what they think about transgender sports.
