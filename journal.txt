@@ -6,3 +6,4 @@
 //Week 6: This week I tried to ask chatgpt easier ways to understand classes and implement them.
 //Week 7: This week I was trying to get better at functions for our project so I asked chatgpt to teach me about linked list and hashmapping.
 //Week 8: Theres been a lot of controversy about womens sports, so I asked chatgpt about what they think about transgender sports.
+//Week 9: For my AAAS class we had to watch a film called the dutchman it is a movie based in the 60s about deep rooted racism I asked chatgpt to give me a full contextualization of this film.
