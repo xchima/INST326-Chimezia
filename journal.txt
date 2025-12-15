@@ -9,3 +9,4 @@
 //Week 9: For my AAAS class we had to watch a film called the dutchman it is a movie based in the 60s about deep rooted racism I asked chatgpt to give me a full contextualization of this film.
 //Week 10: I bought a car back in August and i've been recently looking to modify it, and so I asked chatgpt to compare cost around the dmv area for tint and chrome delete professional modification prices and star ratings.
 //Week 12: I have been confused on how I should go about importing data since my role in our project deals with data analytics, so I have been asking chatgpt how to import data.
+//Week 13: My PC has been freezing a lot, so this week I had asked chatgpt how to go about fixing it. Funny enough one of the main causes of my PC freezing is because of RAM, meanwhile were going through a ram cost inflation.
